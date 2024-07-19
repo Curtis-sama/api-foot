@@ -1,0 +1,31 @@
+.window {
+    margin: 50px;
+}
+
+.content{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+
+.Header {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 1.5px 0 0 #cecece;
+}
+
+.teams{
+    cursor: pointer;
+    width: 30%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+.venue{
+   display: flex;
+   align-items: center;
+    
+}
